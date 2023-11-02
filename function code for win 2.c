@@ -1,3 +1,4 @@
+
 #include<stdio.h>
  float d( float n);
 float c( float n);
@@ -15,7 +16,7 @@ float a( n);*/
 float s=d(n);
 float p=c(n);
 float v=a(n);
-printf("the diameter is %0.2f\nthe curcenceis%0.2f\nthe area is %0.2f\n ",s,p,v);
+printf("the Diameter is %0.2f\nthe circumference is%0.2f\nthe Area is %0.2f\n ",s,p,v);
 
 
 
